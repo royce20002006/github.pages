@@ -15,7 +15,7 @@ import Logo from "./images/logo.svg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "royce20002006";
 
 // Navbar Logo image
 export const navLogo = null;
@@ -57,11 +57,11 @@ export const skillData = [
     skill: <Icon icon="fa6-brands:js" className="display-4" />,
     name: "JavaScript",
   },
-  {
-    id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
-  },
+  // {
+  //   id: 4,
+  //   skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
+  //   name: "BootStrap",
+  // },
   {
     id: 5,
     skill: <Icon icon="mdi:react" className="display-4" />,
@@ -111,7 +111,7 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/meojjjyv";
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";
